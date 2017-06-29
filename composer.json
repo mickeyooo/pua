@@ -1,0 +1,14 @@
+{
+    "name": "mickeyooo/pua",
+    "type": "library",
+    "authors": [
+        {
+            "name": "huangjianhua",
+            "email": "fromhuang@msn.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": { "Pua": "src/" }
+    },
+    "require": {}
+}
